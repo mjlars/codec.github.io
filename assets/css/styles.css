@@ -49,3 +49,8 @@ header {
 .text-center {
     text-align: center;
 }
+
+#quiz-content {
+    display: flex;
+    flex-direction: column;
+}
